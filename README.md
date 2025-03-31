@@ -3,7 +3,7 @@
 🌱 I'm currently learning at RTS!
 
 
-**MorozovOriginal/MorozovOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TestName/TestName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, My name is Dmitry
+Hi, My name is Dmitry 
 ==============================================================================================================================
 
 * 🌍  I'm based in Belarus
