@@ -22,7 +22,7 @@ Hi, My name is Dmitry
 
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [dima.androsuyk@gmail.com](mailto:dima.androsuyk@gmail.com)
-* ⚡️  I'm secretly love Mountains
+* ⚡️  I secretly love Mountains
 
 ### Skills
 
